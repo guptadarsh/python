@@ -1,0 +1,4 @@
+This is simple python fuciton.
+def fuc():
+    print('Adarsh Gupta')
+fuc()
